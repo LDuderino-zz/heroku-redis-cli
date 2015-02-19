@@ -8,7 +8,7 @@ over a secure network.
 
 Install [docker](https://www.docker.io/).
 
-Check the available postgres versions at http://download.redis.io/releases
+Check the available redis versions at http://download.redis.io/releases
 
 Build:
 
