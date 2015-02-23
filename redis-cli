@@ -1,6 +1,6 @@
 #!/bin/sh
 
-rcli_url="http://download.redis.io/releases/redis-${REDIS_VERION}.tar.gz"
+rcli_url="http://download.redis.io/releases/redis-${REDIS_VERSION}.tar.gz"
 wget $rcli_url
 tar xzf redis-${REDIS_VERSION}.tar.gz
 
